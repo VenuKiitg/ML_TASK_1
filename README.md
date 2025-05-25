@@ -31,7 +31,7 @@ The analysis includes:
 
 ## Author
 
-- Developed by [Venu]
+- Developed by Venu
 - Institution: IIT Guwahati
 - Year: 2025
 
